@@ -1,6 +1,6 @@
 # IoT Start Project
 
-This is your IoT Gitlab project. You can use it to store your code and documentation. 
+This is my IoT Gitlab project. You can check it by opening this link: https://xiinuuweepee24-iot-2024-2025-semester-1-individu-5c7dedc32e89e4.dev.hihva.nl/
 
 ## Getting Started
 
